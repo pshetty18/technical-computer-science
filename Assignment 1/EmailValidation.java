@@ -1,9 +1,3 @@
-/*
-Pratish Shetty: 01709610
-Stanley Young-Harry: 
-Yubo Li: 01692497
-*/
-
 package emailvalidation;
 
 import java.util.regex.Matcher;
